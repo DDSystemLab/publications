@@ -1,6 +1,14 @@
 # publications
 This repo contains all PACS member's publications' bib entries.
 
+## Grouping By Year
+
+```
+[bibtex file=https://raw.githubusercontent.com/DDSystemLab/publications/master/bib/all.bib group=year group_order=desc]
+```
+
+## Tags for Different Files
+
 ```
 Journal Articles
 
@@ -25,4 +33,14 @@ Thesis
 Misc
 
 [bibtex file=https://raw.githubusercontent.com/DDSystemLab/publications/master/bib/misc.bib]
+```
+
+## Custom CSS
+
+```css
+h3.papercite {
+  background-color: #DDDDDD;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
 ```
