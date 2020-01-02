@@ -1,4 +1,4 @@
-# publications
+# Publications
 This repo contains all PACS member's publications' bib entries.
 
 ## Grouping By Year
