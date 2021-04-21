@@ -1,6 +1,8 @@
 # Publications
 This repo contains all PACS member's publications' bib entries.
 
+Manual papercite update source: https://github.com/bpiwowar/papercite
+
 ## Grouping By Year
 
 ```
